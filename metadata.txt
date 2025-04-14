@@ -1,0 +1,8 @@
+[general]
+name=ADR Plugin V3
+qgisMinimumVersion=3.0
+description=Version 3 of ADR Plugin with improved maintainability.
+version=3.0
+author=Will Ponczak
+email=ponczawm@dukes.jmu.edu
+category=Raster
